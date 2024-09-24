@@ -7,7 +7,7 @@ NSP_OEC_Training_Chapter_1
 ![Image image_filename](code.png)
 
 
-**Chapter 1: Introduction to Outdoor Emergency Care**
+## Chapter 1: Introduction to Outdoor Emergency Care 
 
 1. Describe the evolution and purpose of the National Ski Patrol's OEC program.
 2. Identify the founder of the National Ski Patrol.
@@ -18,31 +18,22 @@ NSP_OEC_Training_Chapter_1
 7. Describe the four concepts related to consent.
 
 
-The Outdoor Emergency Care (OEC) program of the National Ski Patrol (NSP) has evolved to become one of the most recognized emergency care programs tailored for outdoor environments, particularly in ski and snow sports settings. Here's an overview of its evolution and purpose:
+## 1.1 The Outdoor Emergency Care (OEC) program of the National Ski Patrol (NSP) has evolved to become one of the most recognized emergency care programs tailored for outdoor environments, particularly in ski and snow sports settings. Here's an overview of its evolution and purpose:
 
-**1. Evolution of the OEC Program:**
-**Origins (1980s)**: The OEC program was developed in the 1980s in response to a need for standardized medical training among NSP members. Previously, ski patrollers came from various medical backgrounds, including doctors, EMTs, and nurses, but there was no consistent training. To unify the skills and knowledge across patrollers, the NSP collaborated with the American Academy of Orthopaedic Surgeons (AAOS) to design the OEC curriculum.
-
-**Development of OEC Curriculum**: In 1985, the first OEC textbook was published. It was based on the EMT curriculum but tailored specifically for outdoor environments, focusing on situations common to skiing and snow sports. The curriculum included modules on patient assessment, trauma care, environmental emergencies, and musculoskeletal injuries, among other topics.
-
-**Expansion and Updates**: Over the years, the OEC program expanded and revised its curriculum to stay current with advancements in medical care and to cover a broader range of outdoor activities. New editions of the OEC textbook have been released regularly, incorporating updates in emergency care techniques, equipment, and outdoor scenarios. The latest versions also focus on wilderness first aid and non-urban settings.
-
-**Certification and National Recognition**: The OEC program became recognized as the primary certification for ski patrollers across the United States. NSP members are required to maintain OEC certification through continuous education, practical training, and recertification every three years. It has also gained recognition in broader outdoor industries, with many wilderness guides and outdoor workers obtaining OEC certification.
-
-**Purpose of the OEC Program**:
-**Standardized Emergency Medical Training for Outdoor Environments**: The main goal of the OEC program is to provide standardized training to individuals in providing emergency care in outdoor settings, particularly for ski patrol members. It equips patrollers with skills to manage injuries and illnesses that occur on the slopes or in wilderness areas, often in remote, challenging conditions far from immediate medical care.
-
-**Focused on Outdoor Sports and Recreation**: The program focuses on the specific demands and situations encountered in snow sports, like ski-related injuries, cold-related conditions (hypothermia, frostbite), and avalanche rescue. However, it also covers broader outdoor emergencies, such as water rescues, heat illness, and trauma from falls or wilderness accidents.
-
-**Preparing for Pre-Hospital Care**: OEC-trained patrollers act as first responders, bridging the gap between the time of injury and professional medical care. They are trained to assess, stabilize, and transport injured individuals, often working in rough terrain and extreme weather.
-
-**Adapting to Non-Urban Settings**: One of the unique aspects of OEC training is its emphasis on providing care in non-urban, remote settings, where resources are limited. The program teaches improvisation skills, patient stabilization for long-term transport, and working with minimal equipment.
-
-**Impact and Reach**:
-The OEC program has expanded beyond just ski patrolling. It is now a recognized credential for those involved in various outdoor recreation fields, including mountain rescue teams, park rangers, and wilderness guides. Its blend of medical knowledge and practical outdoor skills makes it a key training program for first responders in remote areas. The program continues to be a cornerstone of the National Ski Patrol's mission to promote safety and provide rescue services in outdoor recreational environments.
+**1.1 Evolution of the OEC Program:**
+- **Origins (1980s)**: The OEC program was developed in the 1980s in response to a need for standardized medical training among NSP members. Previously, ski patrollers came from various medical backgrounds, including doctors, EMTs, and nurses, but there was no consistent training. To unify the skills and knowledge across patrollers, the NSP collaborated with the American Academy of Orthopaedic Surgeons (AAOS) to design the OEC curriculum.
+- **Development of OEC Curriculum**: In 1985, the first OEC textbook was published. It was based on the EMT curriculum but tailored specifically for outdoor environments, focusing on situations common to skiing and snow sports. The curriculum included modules on patient assessment, trauma care, environmental emergencies, and musculoskeletal injuries, among other topics.
+- **Expansion and Updates**: Over the years, the OEC program expanded and revised its curriculum to stay current with advancements in medical care and to cover a broader range of outdoor activities. New editions of the OEC textbook have been released regularly, incorporating updates in emergency care techniques, equipment, and outdoor scenarios. The latest versions also focus on wilderness first aid and non-urban settings.
+- **Certification and National Recognition**: The OEC program became recognized as the primary certification for ski patrollers across the United States. NSP members are required to maintain OEC certification through continuous education, practical training, and recertification every three years. It has also gained recognition in broader outdoor industries, with many wilderness guides and outdoor workers obtaining OEC certification.
+- **Purpose of the OEC Program**:
+- **Standardized Emergency Medical Training for Outdoor Environments**: The main goal of the OEC program is to provide standardized training to individuals in providing emergency care in outdoor settings, particularly for ski patrol members. It equips patrollers with skills to manage injuries and illnesses that occur on the slopes or in wilderness areas, often in remote, challenging conditions far from immediate medical care.
+- **Focused on Outdoor Sports and Recreation**: The program focuses on the specific demands and situations encountered in snow sports, like ski-related injuries, cold-related conditions (hypothermia, frostbite), and avalanche rescue. However, it also covers broader outdoor emergencies, such as water rescues, heat illness, and trauma from falls or wilderness accidents.
+- **Preparing for Pre-Hospital Care**: OEC-trained patrollers act as first responders, bridging the gap between the time of injury and professional medical care. They are trained to assess, stabilize, and transport injured individuals, often working in rough terrain and extreme weather.
+- **Adapting to Non-Urban Settings**: One of the unique aspects of OEC training is its emphasis on providing care in non-urban, remote settings, where resources are limited. The program teaches improvisation skills, patient stabilization for long-term transport, and working with minimal equipment.
+- **Impact and Reach**: The OEC program has expanded beyond just ski patrolling. It is now a recognized credential for those involved in various outdoor recreation fields, including mountain rescue teams, park rangers, and wilderness guides. Its blend of medical knowledge and practical outdoor skills makes it a key training program for first responders in remote areas. The program continues to be a cornerstone of the National Ski Patrol's mission to promote safety and provide rescue services in outdoor recreational environments.
 
 
-Describe the evolution and purpose of the National Ski Patrol's OEC program.
+## 1.2 Describe the evolution and purpose of the National Ski Patrol's OEC program.
 
 
 2. The founder of the National Ski Patrol is **Charles Minot "Minnie" Dole**. He established the organization in 1938 to provide organized rescue and emergency medical care for injured skiers. Dole was inspired to create the National Ski Patrol after a skiing accident involving a friend, which highlighted the need for trained individuals to assist injured skiers on the slopes.
