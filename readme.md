@@ -159,7 +159,23 @@ Here are four key concepts related to **consent** in providing emergency care, i
 3. **Minor Consent**: For minors (under 18 in most regions), consent must be obtained from a parent or legal guardian. However, in emergencies when no guardian is available, implied consent allows treatment to proceed to prevent harm to the child.
 
 These concepts ensure that medical care is provided with respect for the patient’s rights while allowing emergency responders to act in urgent situations.
-
+## Key Terms 
+ 1. **Advanced Emergency Medical Technician (AEMT)** - An EMS provider trained to provide basic and limited advanced emergency medical care, including airway management, medication administration, and intravenous access. 
+  2. **Advanced Life Support (ALS)** - A set of life-saving protocols and skills that extend beyond Basic Life Support, including advanced airway management, cardiac monitoring, and drug administration. 
+  3. **Basic Life Support (BLS)** - Basic emergency care techniques, including CPR, airway management, and basic first aid, typically provided by EMTs and EMRs. 
+  4. **Emergency Medical Care System** - A coordinated system that provides emergency medical services, from initial emergency dispatch to prehospital care and hospital treatment. 
+  5. **Emergency Medical Dispatcher (EMD)** - A trained individual who receives 911 calls, provides pre-arrival instructions, and dispatches appropriate emergency resources. 
+  6. **Emergency Medical Responder (EMR)** - A certified provider who offers basic, immediate care for medical emergencies, typically the first responder at the scene. 
+  7. **Emergency Medical Service (EMS)** - A system that provides emergency medical care and transportation to individuals experiencing medical emergencies. 
+  8. **Emergency Medical Technician (EMT)** - An EMS provider trained to deliver basic emergency medical care, including patient assessment, CPR, and limited medication administration. 
+  9. **Medical Director** - A licensed physician responsible for overseeing the clinical operations of an EMS system, including medical protocols and provider training. 
+  10. **Medical Oversight** - The supervision of prehospital emergency medical care by a licensed physician, often through written protocols or direct communication. 
+  11. **Outdoor Emergency Care Technician (OEC)** - A trained provider who delivers emergency care in outdoor and wilderness environments, often in ski patrol or search and rescue operations. 
+  12. **Paramedic** - An advanced EMS provider trained to perform invasive procedures, administer medications, and provide advanced life support in prehospital settings. 
+  13. **Prehospital Providers** - EMS personnel, including EMTs, paramedics, and others, who provide emergency medical care before the patient arrives at the hospital. 
+  14. **Protocols** - Written guidelines or instructions that outline the specific procedures to be followed by EMS providers when treating patients in the field. 
+  15. **Scope of Practice** - The procedures, actions, and processes that a healthcare provider is legally allowed to perform according to their certification or licensure. 
+ 
 ![Image image_filename](sample.png)
 
 ## Getting Started
