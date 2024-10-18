@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 1 - National Ski Patrol - Outdoor Emergency Care chapter 1 
-National Ski Patrol - Outdoor Emergency Care chapter 1 
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 1 - National Ski Patrol - Outdoor Emergency Care chapter 1 ![Image image_filename](code.png)
 
 ## Chapter 1: Introduction to Outdoor Emergency Care 
 
@@ -175,9 +168,7 @@ These concepts ensure that medical care is provided with respect for the patient
   13. **Prehospital Providers** - EMS personnel, including EMTs, paramedics, and others, who provide emergency medical care before the patient arrives at the hospital. 
   14. **Protocols** - Written guidelines or instructions that outline the specific procedures to be followed by EMS providers when treating patients in the field. 
   15. **Scope of Practice** - The procedures, actions, and processes that a healthcare provider is legally allowed to perform according to their certification or licensure. 
- 
-![Image image_filename](sample.png)
-
+ ![Image image_filename](sample.png)
 ## Getting Started
 To get started with the **Nsp Oec Training Chapter 1** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -192,6 +183,9 @@ To get started with the **Nsp Oec Training Chapter 1** solution repository, foll
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -201,13 +195,11 @@ To get started with the **Nsp Oec Training Chapter 1** solution repository, foll
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](enrollment.png)  <br>![additional_image](NSP_OEC_Training_Chapter_1.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
