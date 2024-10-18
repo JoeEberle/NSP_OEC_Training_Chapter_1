@@ -168,7 +168,7 @@ These concepts ensure that medical care is provided with respect for the patient
   13. **Prehospital Providers** - EMS personnel, including EMTs, paramedics, and others, who provide emergency medical care before the patient arrives at the hospital. 
   14. **Protocols** - Written guidelines or instructions that outline the specific procedures to be followed by EMS providers when treating patients in the field. 
   15. **Scope of Practice** - The procedures, actions, and processes that a healthcare provider is legally allowed to perform according to their certification or licensure. 
- ![Image image_filename](sample.png)
+ ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
