@@ -122,7 +122,7 @@ Impact on Volunteers:
 
 **Encouragement to Act**: The laws encourage people to help in emergency situations without fear of being sued for unintentional mistakes, promoting quicker responses to emergencies.
 
-**Limitations**: These protections usually don’t apply if the volunteer acts recklessly, outside their training, or expects compensation.
+**Limitations**: These protections usually donâ€™t apply if the volunteer acts recklessly, outside their training, or expects compensation.
 
 Overall, Good Samaritan laws foster a culture of helping by reducing the legal risks for volunteers who step in during emergencies.
 
@@ -160,7 +160,7 @@ Here are four key concepts related to **consent** in providing emergency care, i
 3. **Implied Consent**: Implied consent is assumed when a patient is unable to give express consent (e.g., unconscious or incapacitated), but a reasonable person would want lifesaving care. It's often used in emergency situations when immediate action is required.
 3. **Minor Consent**: For minors (under 18 in most regions), consent must be obtained from a parent or legal guardian. However, in emergencies when no guardian is available, implied consent allows treatment to proceed to prevent harm to the child.
 
-These concepts ensure that medical care is provided with respect for the patient’s rights while allowing emergency responders to act in urgent situations.
+These concepts ensure that medical care is provided with respect for the patientâ€™s rights while allowing emergency responders to act in urgent situations.
 ## Key Terms 
  1. **Advanced Emergency Medical Technician (AEMT)** - An EMS provider trained to provide basic and limited advanced emergency medical care, including airway management, medication administration, and intravenous access. 
   2. **Advanced Life Support (ALS)** - A set of life-saving protocols and skills that extend beyond Basic Life Support, including advanced airway management, cardiac monitoring, and drug administration. 
